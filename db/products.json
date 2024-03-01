@@ -1,0 +1,25 @@
+{
+  "products": [
+    {
+      "id": "4eca",
+      "name": "server",
+      "description": "server",
+      "price": "4",
+      "inStock": true
+    },
+    {
+      "id": "3c1b",
+      "name": "server",
+      "description": "server",
+      "price": "4",
+      "inStock": true
+    },
+    {
+      "id": "2873",
+      "name": "server",
+      "description": "server",
+      "price": "4",
+      "inStock": true
+    }
+  ]
+}
